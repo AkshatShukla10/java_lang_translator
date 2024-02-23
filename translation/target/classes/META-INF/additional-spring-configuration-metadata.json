@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "deepl.api.key",
+  "type": "java.lang.String",
+  "description": "Auth key for deepl api"
+}]}
